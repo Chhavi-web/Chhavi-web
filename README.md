@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chhavi-web
-- 👀 I’m interested in Coding, singing, reading
+- 👀 I’m interested in Coding, reading
 - 🌱 I’m currently learning CS50  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email on chhavigupta0121@gmail.com
